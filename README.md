@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SebClav
 - 🔭 Currently exploring and learning Python for data engineering and neural‑network‑driven machine learning.
 - ♥️ Love building web apps with React / Next.js, Flutter, Node.js, and GraphQL.
+- 🔠 Spoken Languages: English / Español
 
 
 <!---
