@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SebClav
-- 👀 I’m interested in code
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on web projects and data analysis
+- 🔭 Currently exploring and learning Python for data engineering and neural‑network‑driven machine learning.
+- ♥️ Love building web apps with React / Next.js, Flutter, Node.js, and GraphQL.
 
 
 <!---
