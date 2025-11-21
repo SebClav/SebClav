@@ -2,22 +2,30 @@
 
 I'm a Systems Engineer focused on building scalable applications, exploring data engineering, and learning machine-learning workflows.
 
-### What I’m working on
+### 🔭 What I’m working on
 - Developing mobile and web applications using Flutter, Node.js/Express, and GraphQL.
 - Learning Python for data engineering pipelines and neural-network fundamentals.
 - Improving my skills in databases, optimization, data structures and high-performance backend development.
 
-### Main Interests
+### 👀 Main Interests
 - Data Engineering & ETL pipelines  
 - Machine Learning (beginner level: PyTorch, Scikit-learn)  
 - API development with Node.js  
 - Mobile development with Flutter
 
-### 🌍 Languages
+### 🌐 Languages
 - English  
 - Spanish (Native)
+
+### 🎓 University Projects
+
+If you want to explore my complete academic and institutional work including my Systems Engineering graduation project (graded 95/100), as well as applications developed for Universidad del Valle and third-party clients you can visit my GitHub account for academic projects:
+
+🔗 https://github.com/SebastianClavijoA
+
+
   
-### Technologies
+### ⚙️ Technologies
 
 *Tools and languages I use frequently:*
 
