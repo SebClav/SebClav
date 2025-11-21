@@ -1,19 +1,32 @@
-## ABOUT ME
-- 👋 Hi, I’m @SebClav
-- 🔭 Currently exploring and learning Python for data engineering and neural‑network‑driven machine learning.
-- ♥️ Love building web apps with Flutter, Node.js, and GraphQL.
-- 🔠 Spoken Languages: English / Spanish
+# Hi I'm Sebastian Clavijo!
 
+I'm a Systems Engineer focused on building scalable applications, exploring data engineering, and learning machine-learning workflows.
 
-<!---
-SebClav/SebClav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-## TECHNOLOGIES
+### What I’m working on
+- Developing mobile and web applications using Flutter, Node.js/Express, and GraphQL.
+- Learning Python for data engineering pipelines and neural-network fundamentals.
+- Improving my skills in databases, optimization, data structures and high-performance backend development.
 
-![NODE.JS](https://img.shields.io/badge/Node.JS--5FA04E?style=for-the-badge&logo=nodedotjs)
-![EXPRESS](https://img.shields.io/badge/Express--black?style=for-the-badge&logo=express)
-![VUE](https://img.shields.io/badge/Vue.JS--4fc08d?style=for-the-badge&logo=vuedotjs)
-![FLUTTER](https://img.shields.io/badge/Flutter--02569b?style=for-the-badge&logo=flutter&logoColor=6bc5f0)
-![DART](https://img.shields.io/badge/Dart--0175c2?style=for-the-badge&logo=dart)
+### Main Interests
+- Data Engineering & ETL pipelines  
+- Machine Learning (beginner level: PyTorch, Scikit-learn)  
+- API development with Node.js  
+- Mobile development with Flutter
+
+### 🌍 Languages
+- English  
+- Spanish (Native)
+  
+### Technologies
+
+*Tools and languages I use frequently:*
+
+![NODE.JS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=nodedotjs)
+![EXPRESS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![VUE](https://img.shields.io/badge/Vue.JS-black?style=for-the-badge&logo=vuedotjs)
+![FLUTTER](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=6bc5f0)
+![DART](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)
+![PYTHON](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
+![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql)
+![MYSQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
 
