@@ -19,7 +19,7 @@ I'm a Systems Engineer focused on building scalable applications, exploring data
 
 ### 🎓 University Projects
 
-If you want to explore my complete academic and institutional work including my Systems Engineering graduation project (graded 95/100), as well as applications developed for Universidad del Valle and third-party clients you can visit my GitHub account for academic projects:
+If you want to explore my complete academic and institutional work, as well as applications developed for Universidad del Valle and third-party clients you can visit my GitHub account for academic projects:
 
 🔗 https://github.com/SebastianClavijoA
 
