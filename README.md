@@ -31,7 +31,7 @@ If you want to explore my complete academic and institutional work, as well as a
 
 ![NODE.JS](https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=nodedotjs)
 ![EXPRESS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![VUE](https://img.shields.io/badge/Vue.JS-black?style=for-the-badge&logo=vuedotjs)
+![JAVASCRIPT](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=JAVASCRIPT)
 ![FLUTTER](https://img.shields.io/badge/Flutter-black?style=for-the-badge&logo=flutter&logoColor=6bc5f0)
 ![DART](https://img.shields.io/badge/Dart-black?style=for-the-badge&logo=dart)
 ![PYTHON](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
