@@ -33,7 +33,7 @@ If you want to explore my complete academic and institutional work, as well as a
 - Market Research App (Mobile): Mobile app for market research built with Flutter.
 - Augmented Reality App (Unity): AR application built with C# and Unity.
   
-### ⚙️ Technologies
+### 🛠️ Technologies
 
 | Area | Stack |
 |---|---|
