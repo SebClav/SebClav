@@ -1,6 +1,6 @@
 # Hi I'm Sebastian Clavijo!
 
-I’m a Systems Engineering graduate focused on building scalable, production-ready applications, with growing interests in data engineering and end-to-end machine learning workflows.
+I’m a Systems Engineering & Data Scientist focused on building scalable, production-ready applications, with growing interests in data engineering and end-to-end machine learning workflows.
 
 ---
 
