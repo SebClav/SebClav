@@ -1,6 +1,6 @@
 # Hi I'm Sebastian Clavijo! 🚀
 
-### Systems Engineer | Data Science Specialist | AI & Deep Learning Enthusiast
+### Systems Engineer | Data Science Practitioner | AI & Deep Learning Enthusiast
 
 I am a Systems Engineer focused on building scalable, production-ready applications. I am currently bridging the gap between robust software architecture and data-driven insights, specializing in **Data Engineering** and the implementation of **Machine Learning** workflows.
 
