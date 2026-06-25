@@ -55,9 +55,9 @@ I am currently diving deep into the world of Artificial Intelligence and Neural 
 *   **Data Impact:** Integrated **Power BI** for real-time analytics and KPI visualization.
 *   **Tech Stack:** Node.js, Express, PostgreSQL, Vue.js, Vuetify & Flutter.
 
-#### 📍 Municipal City Guide
-*   Full-stack solution (API + Mobile) for urban information and citizen management.
-*   **Tech Stack:** Node.js, Express, Flutter.
+#### 🐬 MDM Mask Model Language
+*  Deterministic knowledge-compilation system: compiles domain knowledge into executable masks with O(1) hash-indexed retrieval, answering covered queries with zero model inference and zero tokens.
+*  **Tech Stack:** Python, FastAPI - compiled YAML→JSON masks.
 
 #### 📊 Market Research App
 *   Mobile application designed for efficient field data collection and structured survey management.
