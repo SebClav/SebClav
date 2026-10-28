@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title description">
+  <title id="title">DeepWater · Sebastian Clavijo Alessandri</title>
+  <desc id="description">Systems Engineer, Full-Stack Developer, Data and AI</desc>
+  <defs>
+    <linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0F2342"/>
+      <stop offset=".53" stop-color="#1C2127"/>
+      <stop offset="1" stop-color="#0C2F36"/>
+    </linearGradient>
+    <radialGradient id="plum" cx=".85" cy=".12" r=".74">
+      <stop stop-color="#4C2A5E" stop-opacity=".54"/>
+      <stop offset="1" stop-color="#4C2A5E" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" x2="1">
+      <stop stop-color="#8CC6CF"/>
+      <stop offset=".56" stop-color="#8FB0DE"/>
+      <stop offset="1" stop-color="#BFA2D1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#ocean)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#plum)"/>
+  <g fill="none" stroke="#8CC6CF" stroke-opacity=".16" stroke-width="1.5">
+    <path d="M0 214c160-54 278 54 445 0s281-54 447 0 200 54 308 14"/>
+    <path d="M0 238c160-54 278 54 445 0s281-54 447 0 200 54 308 14"/>
+    <path d="M0 262c160-54 278 54 445 0s281-54 447 0 200 54 308 14"/>
+  </g>
+  <rect x="70" y="58" width="44" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="70" y="98" fill="#B4BCC5" font-family="Arial, sans-serif" font-size="15" letter-spacing="4">SYSTEMS ENGINEER · BOLIVIA</text>
+  <text x="66" y="173" fill="#F6F5F2" font-family="Arial, sans-serif" font-size="58" font-weight="700" letter-spacing="-2">Sebastian Clavijo</text>
+  <text x="70" y="211" fill="url(#accent)" font-family="Arial, sans-serif" font-size="19" letter-spacing="2">FULL-STACK SOFTWARE · DATA · APPLIED AI</text>
+  <text x="1130" y="282" fill="#B4BCC5" fill-opacity=".72" font-family="monospace" font-size="12" text-anchor="end" letter-spacing="2">DEEPWATER</text>
+</svg>
