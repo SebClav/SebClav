@@ -34,13 +34,19 @@ In active development. Nexa is being built to help businesses manage warehouse i
 
 **Stack:** React · TypeScript · NestJS · PostgreSQL · Tailwind CSS
 
-### FTS · Mask Model Language
+
+### FDS · Focused Data Store
 
 ![Previously called MDM](https://img.shields.io/badge/Previously_called-MDM-4C2A5E?style=flat-square&labelColor=1C2127)
 
-A deterministic knowledge-compilation system. It compiles domain knowledge from YAML into executable JSON masks. Hash-indexed retrieval is designed to answer covered queries in **O(1)**, without model inference or token use on that path.
+An early-stage, single-file knowledge database for coding-agent workflows. FDS stores project facts and procedures with source metadata in portable `.fds` files. Its Rust CLI retrieves exact matches or ranks records lexically, returning existing evidence instead of generating answers.
 
-**Stack:** Python · FastAPI · YAML · JSON
+FDS is designed to provide agents with organized, reviewable project context alongside operational databases such as SQLite or PostgreSQL.
+
+**Stack:** Rust · CBOR · CLI · AI agent workflows  
+**Status:** v0.1 prototype  
+**Repository:** [Focused Data Store](https://github.com/SebClav/Focused-Data-Store)
+
 
 ### 🏗 ERP system for cement manufacturers
 
