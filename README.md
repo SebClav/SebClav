@@ -13,7 +13,6 @@
   <a href="https://www.linkedin.com/in/sebastian-clavijo-alessandri">LinkedIn</a>
   &nbsp;·&nbsp;
   <a href="https://sebclav-portfolio.sebasclavijoalessandri.workers.dev/">Portfolio</a>
-  &nbsp;·&nbsp;
 </p>
 
 ---
